@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming with python for data science
 - 📫 How to reach me: @zmxalfrd on instagram
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my heart beat does not have rhythm
+- ⚡ Fun fact: I dream of world where chickens can cross the road without their motives being questioned
 
 <!---
 zmxlfrd/zmxlfrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
