@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zmxlfrd
 - 👀 I’m interested in civil engineering
 - 🌱 I’m currently learning programming with python for data science
-- 📫 How to reach me: @zmxalfrd on instagram
+- 📫 How to reach me: @zmxlfrd on instagram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I dream of world where chickens can cross the road without their motives being questioned
 
