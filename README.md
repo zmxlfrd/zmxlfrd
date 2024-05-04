@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zmxlfrd
-- 👀 I’m interested in civil engineering
+- 👋 Hi, I’m Alfred Zimo (@zmxlfrd)
+- 👀 My background is in civil engineering
 - 🌱 I’m currently learning programming with python for data science
 - 📫 How to reach me: @zmxlfrd on instagram
 - 😄 Pronouns: he/him
