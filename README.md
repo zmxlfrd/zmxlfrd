@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alfred Zimo (@zmxlfrd)
-- 👀 My background is in civil engineering
-- 🌱 I’m currently learning programming with python for data science
+- 👀 My background is in civil engineering (UCT - loved it)
+- 🌱 Now an upcomping data scientist
 - 📫 How to reach me: @zmxlfrd on instagram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I dream of world where chickens can cross the road without their motives being questioned
