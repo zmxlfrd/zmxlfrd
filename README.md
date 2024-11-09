@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alfred Zimo (@zmxlfrd)
-- 👀 My background is in civil engineering (UCT - loved it)
+- 👀 My background is in civil engineering (UCT)
 - 🌱 Now an upcomping data scientist
 - 📫 How to reach me: @zmxlfrd on instagram
 - 😄 Pronouns: he/him
