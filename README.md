@@ -7,7 +7,7 @@
 
 - Email: zimoalfred@gmail.com / alfred@zmxlfrd.co.za
 - Website: www.zmxlfrd.co.za
-- LinkedIn: https://www.linkedin.com/in/alfred-zimo-466360122/
+- LinkedIn: https://www.linkedin.com/in/zimoalfred
 <!---
 zmxlfrd/zmxlfrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
